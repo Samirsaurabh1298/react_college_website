@@ -1,4 +1,4 @@
-import { Music2 } from 'lucide-react';
+// import { Music2 } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 export default function Footer() {
